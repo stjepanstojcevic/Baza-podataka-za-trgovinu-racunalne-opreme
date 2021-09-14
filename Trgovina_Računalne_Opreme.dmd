@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Trgovina Računalne Opreme" id="3499783A-DEED-F160-C545-80C6679B7F1D" version="3.5">
+<createdBy>Petar</createdBy>
+<createdTime>2020-06-10 10:54:28 UTC</createdTime>
+<ownerDesignName>Trgovina Računalne Opreme</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3499783A-DEED-F160-C545-80C6679B7F1D</designId>
+</OSDM_Design>
